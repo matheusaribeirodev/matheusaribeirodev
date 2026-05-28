@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por música • 🚀 Criando projetos e evoluindo todos os dias 
-  ![imagem] (
+
 </p>
 
 ---
