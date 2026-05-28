@@ -1,5 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Matheus Augusto</h1>
 
+<p align="center">
+💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por música • 🚀 Criando projetos e evoluindo todos os dias
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante e apaixonado por tecnologia  
+🎵 Trabalho com ecommerce  
+📚 Atualmente estudando desenvolvimento web e programação  
+🔥 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
+
+---
+
+## 🛠️ Tecnologias que estudo
 <!--
 **matheusaribeirodev/matheusaribeirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
