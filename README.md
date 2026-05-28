@@ -16,8 +16,10 @@
 ---
 
 ## 🛠 Tecnologias que estudo
-
-
+- Python
+- Portugol Web Studio
+- Vscode
+- Wokwi
 
 ---
 
