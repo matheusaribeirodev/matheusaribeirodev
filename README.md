@@ -1,7 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Matheus Augusto</h1>
 
 <p align="center">
-💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por música • 🚀 Criando projetos e evoluindo todos os dias
+💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por música • 🚀 Criando projetos e evoluindo todos os dias 
+  ![imagem] (
 </p>
 
 ---
