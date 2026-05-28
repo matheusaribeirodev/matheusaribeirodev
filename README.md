@@ -6,7 +6,7 @@
 </p>
 
 ---
-![imagem](https://github.com/matheusaribeirodev/matheusaribeirodev/blob/main/Sem%20t%C3%ADtulo.png)
+
 ## 🚀 Sobre mim
 
 🎓 Estudante e apaixonado por tecnologia
