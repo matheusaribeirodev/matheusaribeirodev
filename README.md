@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante e apaixonado por tecnologia  
-🎵 Trabalho e tenho interesse na área musical  
+🎵 Trabalho e tenho auxilio um ecommerce na área musical  
 📚 Atualmente estudando desenvolvimento web e programação  
 🔥 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
 
