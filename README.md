@@ -26,7 +26,7 @@
 
 ## 🌎 Onde me encontrar
 
-📸 Instagram: @yoribeirx  
+📸 Instagram: @ribeiir0x  
 📧 Email: matheus.augustow2013@gmail.com  
 
 ---
