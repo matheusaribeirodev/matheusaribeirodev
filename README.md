@@ -1,74 +1,57 @@
-<h1 align="center">👋 Olá, eu sou Matheus Augusto</h1>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por música • 🚀 Criando projetos e evoluindo todos os dias 
+###
 
-</p>
+<div data-importer="socials" align="center">
+  <a href="https://www.instagram.com/ribeiir0x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://criarmeulink.com.br/u/1791941533" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://criarmeulink.com.br/u/1791941579" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🚀 Sobre mim
+<h1 data-importer="text" align="center">Olá! 👋 Eu sou o Ribeiro</h1>
 
-🎓 Estudante e apaixonado por tecnologia
-🎵 Trabalho e tenho auxilio um ecommerce na área musical  
-📚 Atualmente estudando desenvolvimento web e programação  
-🔥 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
+###
 
----
+<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
 
-## 🛠 Tecnologias que estudo
-- Python
-- Portugol Web Studio
-- Vscode
-- Wokwi
+###
 
----
+<p data-importer="text" align="left">Eu sou de Cajamar-Sp e estou cursando Análise e Desenvolvimento de Sistemas (ADS), pelo Senai-Sp<br><br>- 🔭Adiministro um ecommerce chamado: Jgm.ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.</p>
 
-## 🌎 Onde me encontrar
+###
 
-📸 Instagram: @ribeiir0x  
-📧 Email: matheus.augustow2013@gmail.com  
+<h3 data-importer="text" align="left">🛠 Linguagens que estudo e desenvolvo</h3>
 
----
+###
 
-## 🎯 Objetivos
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
-✔ Evoluir como desenvolvedor  
-✔ Criar projetos profissionais  
-✔ Trabalhar com tecnologia  
-✔ Aprender novas linguagens e frameworks  
+###
 
----
+<h3 data-importer="text" align="left">🔥   Meu Status :</h3>
 
-<p align="center">
-✨ “A consistência vence o talento quando o talento não é consistente.” ✨
-</p>
-<!--<div style="display: inline_block"><br>
-
-  <img align="center" alt="Python" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="VSCode" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="JavaScript" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-**matheusaribeirodev/matheusaribeirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
