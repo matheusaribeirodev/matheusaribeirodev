@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<h3 data-importer="text" align="left">🔥 Meus Status</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusaribeirodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <br><br>
