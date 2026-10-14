@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="140" src="gif.gif" />
+    <img height="150" src="gif.gif" />
 </div>
 
 <div data-importer="socials" align="center">
