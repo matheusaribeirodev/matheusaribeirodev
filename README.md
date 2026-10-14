@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="150" src="code.gif" />
+    <img height="150" src="gif.gif" />
 </div>
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/ribeiir0x/" target="_blank">
