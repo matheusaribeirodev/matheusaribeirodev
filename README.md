@@ -1,7 +1,6 @@
-<div data-importer="image" align="center">
-    <img data-importer="image" height="150" src="https://i.giphy.com/media/USV0m3bVWQlImNu3N/giphy.gif" />
+<div align="center">
+    <img height="150" src="code.gif" />
 </div>
-
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/ribeiir0x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
