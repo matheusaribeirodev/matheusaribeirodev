@@ -20,7 +20,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
+<h3 data-importer="text" align="left">👩‍💻  Sobre Mim: </h3>
 
 ###
 
