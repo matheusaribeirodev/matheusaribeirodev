@@ -24,7 +24,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu sou de Cajamar-Sp e estou cursando Análise e Desenvolvimento de Sistemas (ADS) 2/4, pelo Senai-Sp.<br><br>- 🔭Adiministro um ecommerce chamado: Jgm.ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.</p>
+<p data-importer="text" align="left">Eu sou de Cajamar-Sp e estou cursando Análise e Desenvolvimento de Sistemas (ADS) 2/4, pelo Senai-Sp.<br><br>- 🔭Adiministro um ecommerce chamado: Jgm.ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.<br> - 🇺🇸 Intermediário superior (B2)</p>
 
 ###
 
