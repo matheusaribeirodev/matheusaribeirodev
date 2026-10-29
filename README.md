@@ -24,7 +24,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu sou de Cajamar-Sp e estou cursando Análise e Desenvolvimento de Sistemas (ADS) 2/4, pelo Senai-Sp.<br><br>- 🔭 Experiência com ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br> - ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.</p>
+<p data-importer="text" align="left">Eu sou de Cajamar-Sp, tenho 17 anos e estou cursando Análise e Desenvolvimento de Sistemas (ADS) 2/4, pelo Senai-Sp.<br><br>- 🔭 Experiência com ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br> - ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.</p>
 
 ###
 
