@@ -27,4 +27,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="footer.svg" width="100%" height="120" alt="footer" />
+<img src="footer.svg" width="100%" height="60" alt="footer" />
