@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EA26A5&height=120&section=header" width="100%" alt="banner" />
+<img src="banner.svg" width="100%" alt="banner" />
 </div>
 
 # 💫 Sobre Mim:
