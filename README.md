@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EA26A5&height=120&section=header" width="100%" alt="banner" />
 </div>
 
-
 # 💫 Sobre Mim:
  -🔭 Experiência com ecommerce<br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.
 
