@@ -55,22 +55,3 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaribeirodev&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
-
-<h1 data-importer="text" align="left"></h1>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<h2 data-importer="text" align="left"></h2>
-
-###
-
-<h2 data-importer="text" align="left"></h2>
-
-###
-
-<div data-importer="techs" align="left">
-</div>
