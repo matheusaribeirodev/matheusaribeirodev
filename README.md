@@ -1,57 +1,21 @@
-<div align="center">
-    <img height="150" src="gif.gif" />
-</div>
+# 💫 About Me:
+- 🔭 Experiência com ecommerce<br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.
 
-<div data-importer="socials" align="center">
-  <a href="https://www.instagram.com/ribeiir0x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://criarmeulink.com.br/u/1791941533" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://criarmeulink.com.br/u/1791941579" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
 
-###
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/whotwzin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ribeiir0x) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Matheus Augusto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.augustow2013@gmail.com) 
 
-<h1 data-importer="text" align="center">Olá! 👋 Eu sou o Ribeiro</h1>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=matheusaribeirodev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=matheusaribeirodev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=matheusaribeirodev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=matheusaribeirodev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 data-importer="text" align="left">👩‍💻  Sobre Mim: </h3>
+---
+[![](https://komarev.com/ghpvc/?username=matheusaribeirodev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p data-importer="text" align="left">Eu sou de Cajamar-Sp, tenho 17 anos e estou cursando Análise e Desenvolvimento de Sistemas (ADS) 2/4, pelo Senai-Sp.<br><br>- 🔭 Experiência com ecommerce <br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br> - ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Linguagens que estudo e desenvolvo: </h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-<h3 data-importer="text" align="left">🔥 Meus Status: </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusaribeirodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaribeirodev&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
