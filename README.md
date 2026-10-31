@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.svg" width="100%" alt="banner" />
+<img src="banner.svg" width="100%" height="120" alt="banner" />
 </div>
 
 # 💫 Sobre Mim:
