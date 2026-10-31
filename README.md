@@ -1,6 +1,5 @@
-<div align="center">
+
 <img src="banner.svg" width="100%" height="120" alt="banner" />
-</div>
 
 # 💫 Sobre Mim:
  -🔭 Experiência com ecommerce<br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.
