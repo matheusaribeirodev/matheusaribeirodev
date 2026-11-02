@@ -6,7 +6,7 @@
 </div>
 
 # 💫 Sobre Mim:
- -🔭 Experiência com ecommerce<br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2)<br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.
+ -🔭 Experiência com ecommerce. <br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2). <br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas.
 
 
 ## 🌐 Redes sociais:
