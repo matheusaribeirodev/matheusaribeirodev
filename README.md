@@ -6,7 +6,7 @@
 </div>
 
 # 💫 Sobre Mim:
- Estou cursando ADS (Analise e desenvolvimento de sistemas) no Senai-Sp 2/4.
+ Estou cursando ADS (Analise e desenvolvimento de sistemas) no Senai-Santana de Parnaíba 2/4.
  
  -🔭 Experiência com ecommerce. <br>- 📚 Estou em constante aprendizagem!<br>- 🗣️ Ingles: Intermediário superior (B2). <br>- ⚡ No meu tempo livre gosto de jogar e desenvolver coisas novas. 
 
