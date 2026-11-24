@@ -2,7 +2,7 @@
 <img src="banner.svg" width="100%" height="60" alt="banner" />
 
 <div align="center">
-  <img src="boas-vindas.svg" width="600" alt="Bem-vindo ao meu perfil" />
+  <img src="boas-vindas.svg" width="600" alt="Bem-vindo ao meu perfil!" />
 </div>
 
 # 💫 Sobre Mim:
